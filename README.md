@@ -3,7 +3,7 @@
 
 # geojson.io
 
-Note: development of geojson.io is currently paused. You may be interested in the new fork at https://geojson.net. Until development restarts, please refrain from adding issues to the tracker.
+Note: development of geojson.io is currently paused. Until development restarts, please refrain from adding issues to the tracker.
 
 ![](http://i.cloudup.com/kz3BAF7Hnx.png)
 
@@ -67,7 +67,7 @@ This is made up of small reusable chunks:
 ## See Also
 
 * [TileMill](http://www.mapbox.com/tilemill/) for styling maps
-* [MapBox](http://www.mapbox.com/) for all of the APIs used in geojson.io
+* [Mapbox](http://www.mapbox.com/) for all of the APIs used in geojson.io
 * [uMap](https://umap.openstreetmap.fr) is a similar tool with its own data storage
 
 ## License
